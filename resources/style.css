@@ -1,0 +1,9 @@
+.model-header{
+    background-color: orange;
+    color: #fff;
+}
+
+.required:after{
+    content: "*";
+    color: red;
+}
